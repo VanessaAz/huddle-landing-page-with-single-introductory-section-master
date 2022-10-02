@@ -99,7 +99,10 @@ main {
        background-size: cover;
        height: 100vh; 
        margin: auto;
-       max-width: 1000px;
+       max-width: 1100px;
+       display: flex;
+       flex-direction: column;
+       justify-content: space-around;
        
     }
 
